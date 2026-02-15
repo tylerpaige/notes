@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "35da01922f25ea65",
+    "type": "split",
+    "children": [
+      {
+        "id": "58cba247c0eeff29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f57bb98c77ba685",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3116b681c5319fcf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4798a0e7f646e1ea",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "bc9511d67a953437",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "foucault",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "23f6601158bec29d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "08a5508bff111459",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "b7155bf9dd9c0d88",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7cb89f25c4b5489c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12c40cd7f6e878a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Library/Articles/Erik Carter - The Rise and Fall of Adobe Inc..md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9557c227e2750885",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Library/Articles/Order of Things, Preface.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "08b14da459c5d2c5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Library/Articles/Metahaven - Can Jokes Bring Down Governments Memes, Design and Politics.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f10d82a94a6fe493",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "Library/Full Document Contents/Articles/The Diminishing Marginal Value of Aesthetics.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "Footnotes"
+        }
+      },
+      {
+        "id": "0ded825b6312b88f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2f57bb98c77ba685",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "notes.git",
+    "Library/Full Document Contents/Articles/Silvio Lorusso Serif Populism, Hyperpolitics and the Diminishing Returns of Graphic Design Culture.md",
+    "Library/Full Document Contents/Books/1aa5164301064041bdf96d66af6a7362.md",
+    "Library/Articles/Silvio Lorusso - What Design Can’t Do Essays on Design and Disillusion.md",
+    "Library/Full Document Contents/Articles/What Design Can’t Do Essays on Design and Disillusion.md",
+    "Library/Articles/Metahaven - Can Jokes Bring Down Governments Memes, Design and Politics.md",
+    "Library/Full Document Contents/Articles/The Diminishing Marginal Value of Aesthetics.md",
+    "Library/Full Document Contents/Books/Humiliation.md",
+    "Library/Full Document Contents/Books/Dark matter and trojan horses. A strategic design vocabulary..md",
+    "Library/Full Document Contents/Articles/Hertzian Tales Electronic Products, Aesthetic Experience, And Critical Design.md",
+    "Library/Full Document Contents/Books/Uncomputable Play and Politics In the Long Digital Age.md",
+    "Library/Full Document Contents/Articles/The Marvelous Clouds Toward a Philosophy of Elemental Media.md",
+    "Library/Full Document Contents/Books/States of Injury.md",
+    "Library/Full Document Contents/Books/Lao Tzu.md",
+    "Library/Full Document Contents/Books/Blockchain Chicken Farm.md",
+    "Library/Full Document Contents/Articles/The Whitney Identity Responding to W(hat).md",
+    "Library/Full Document Contents/Books/Bullshit Jobs.md",
+    "Library/Full Document Contents/Articles/Experimental Jetset.md",
+    "Library/Full Document Contents/Articles/A Quest for Meaning in a Dystopian Era.md",
+    "Library/Full Document Contents/Books/Caliban and the Witch.md",
+    "Library/Full Document Contents/Books/Failed to read Cruising_Utopia_10th_Anniversary_Edition__The_Then_and_--_Jose_Esteba.epub.md",
+    "Library/Full Document Contents/Articles/Uncorporate Identity.md",
+    "Library/Full Document Contents/Articles/Can Jokes Bring Down Governments Memes, Design and Politics.md",
+    "Library/Articles/Emily Green - Mad Dutch Disease.md",
+    "Library/Full Document Contents/Articles/Mad Dutch Disease.md",
+    "Library/Articles/Post-Culture by Sibling Studio - From Consuming the Product to Becoming the Product..md",
+    "Library/Podcasts",
+    "Library/Books",
+    "Library/Full Document Contents/Books",
+    "Library/Full Document Contents/Articles",
+    "Library/Full Document Contents",
+    "Library/Articles",
+    "Library",
+    "Untitled 2.base",
+    "Untitled.canvas",
+    "Untitled"
+  ]
+}

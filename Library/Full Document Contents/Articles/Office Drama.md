@@ -1,0 +1,42 @@
+# Office Drama
+
+![rw-book-cover](https://static.frieze.com/files/styles/frieze_teaser/public/article/thumbnail/editorial-pworks-esptv-work-installationday1-pressviews-020917-0140-thumb.jpeg?itok=0rly23GJ)
+
+## Metadata
+- Author: [[frieze.com]]
+- Full Title: Office Drama
+- Category: #articles
+- Publication date: 2017-03-23
+- URL: https://frieze.com/article/office-drama
+- Summary: https://frieze.com/article/office-drama
+
+# Notes
+
+[[frieze.com - Office Drama]]
+
+***
+
+![](https://static.frieze.com/files/styles/hero_image/public/article/main/main-images-pworks-esptv-work-installationday1-pressviews-020917-0140-hero.jpeg?itok=FzhHpGok)
+Are you reading this at work? If so, are you pretending to work? Do you find yourself checking your Facebook page or surfing art magazine websites when no one is looking?
+
+If you’ve answered any of the above in the affirmative, you may detect the irony in the business world’s use of the word ‘perform’, a buzzword as hollow as the varieties of ‘practice’ that pepper gallery press releases. We are expected to ‘perform’ on the job, subjected to ‘performance reviews’ and ‘performance targets’. ‘Perform’ is a gentler word than ‘labour’, to be sure, but it also suggests that the workplace is a droll kind of theatre, and each gesture within it a kind of paid pretence.
+
+![](https://static.frieze.com/files/inline-images/editorial-pworks-esptv-work-installationday1-pressviews-020917-0192900pworks-esptv-work-installationday1-pressviews-020917-0192jpgpworks-esptv-work-installationday1-pressviews-020917-0192.jpeg)E.S.P. TV, ‘Work’, installation view, Pioneer Works, New York. Photograph: © Andrew Romer
+This stage is a television studio in E.S.P. TV’s ‘WORK’, the experimental video art collective’s current exhibition at Pioneer Works. For the show’s single eponymous work, E.S.P. TV founders Victoria Keddie and Scott Kiernan have installed the non-profit’s open-plan, second-floor staff office in its large, barrel-vaulted ground floor gallery, a former 19th century ironworks located in Red Hook, on Brooklyn’s waterfront. Chroma blue partition walls and carpets cover the gallery’s brick walls and concrete floor in an alluring alternative to the blinding ‘green screens’ typically used for special effects filming. Pioneer Works staff have been working from clean white desks and swivel chairs installed against this oceanic backdrop since February 10, when Keddie and Kiernan arrived with a crew of cameras and started rolling. Curatorial and administrative work has been filmed in this office-cum-studio set for four hour-long sessions to date, edited live and broadcast on the Manhattan Neighborhood Network.
+
+![](https://static.frieze.com/files/inline-images/editorial-pworks-esptv-work-installationday1-pressviews-020917-0254900pworks-esptv-work-installationday1-pressviews-020917-0254jpgpworks-esptv-work-installationday1-pressviews-020917-0254.jpeg)E.S.P. TV, ‘Work’, installation view, Pioneer Works, New York. Photograph: © Andrew Romer
+Think of ‘WORK’ as the absurdist marriage of primetime comedy *The Office* and a plotless reality show, filmed with ’90s studio cameras to give it the lo-fi finish of a public access channel. Keddie and Kiernan’s spoken directions to roving camera operators accompanies the silent drama of art world professionals glued to laptop screens; scrolling subtitles insert the names of Pioneer Works employees into lines from corporate etiquette manuals, churned out at random by an algorithm. Human Resources language makes common workplace exchanges feel oddly stale and depersonalized, as if subjected to automation.
+
+![](https://static.frieze.com/files/inline-images/editorial-pworks-esptv-work-installationday1-pressviews-020917-0535900pworks-esptv-work-installationday1-pressviews-020917-0535jpgpworks-esptv-work-installationday1-pressviews-020917-0535.jpeg)E.S.P. TV, ‘Work’, installation view, Pioneer Works, New York. Photograph: © Andrew Romer
+In a *Wizard of Oz*-style curtain draw, E.S.P. TV reveals the source of their televisual magic by editing live on the gallery floor, behind a battery of screens and chroma blue partitions. A massive satellite dish hangs overhead, its tractor beam pointed towards the stage. Their spoken directions add a dynamic undercurrent to their subjects’ normally banal actions, and make it clear that their quick cuts – like the post-production tricks of reality TV editors – often add excitement where none exists. E.S.P. means to let us in on the ruse: the move – like the wooden partitions – references hallmark gestures of institutional critique, like Michael Asher’s Via *Los Angeles* (1976) – which Keddie and Kiernan cite themselves – or his 1974 installation at Claire S. Copley Gallery. Often, one studio camera appears in the lens of another; at times, the cameras turn back on the control room, making the action the editing process itself. The early video art of Jack Goldstein and self-reflexive exhibitions of Colab are obvious influences; so is the work of Ant Farm, the psychedelic prophets of our televisual era recently celebrated by a Pioneer Works retrospective. In the end, the individual episodes of ‘WORK’ feel like awkward stock video footage of the ‘perfect workplace’, made for Y2K TV audiences. It’s an oddly nostalgic ideal – outdated, but one we might still aspire to.
+
+![](https://static.frieze.com/files/inline-images/editorial-pworks-esptv-work-installationday1-pressviews-020917-0687900pworks-esptv-work-installationday1-pressviews-020917-0687jpgpworks-esptv-work-installationday1-pressviews-020917-0687.jpeg)E.S.P. TV, ‘Work’, installation view, Pioneer Works, New York. Photograph: © Andrew Romer
+‘WORK’ is a titular command to perform, but it doesn’t matter whether its characters actually get anything done. At Pioneer Works, labour has again become an act. When I visited the gallery and sat down at a desk to discuss the show with its curator (and *frieze* contributor), David Everitt Howe, I felt conscious of how my gestures would register in conversation versus on camera, as the studio dollies circled us like surveillance drones. I wondered whether, when the next episode of ‘WORK’ aired the following Tuesday, Manhattan channel surfers would know that David and I were discussing our hangovers – or if E.S.P.’s editing would lend us professional airs. When several of us clustered around the water cooler – installed alongside a library of E.S.P.’s past work on VHS, and a TV with couches for casual viewing – the cameras bore down on us like paparazzi, and the exchange began to feel climactic. Had I ceased to be a viewer, and become an active participant? Was my position as critic suddenly compromised? And how could I appraise a work of art, if its frame chased me out of the building?
+
+By focusing attention on ‘WORK’s means of production, E.S.P. TV have turned a somersaulting simulacrum into a pointed critique of our image-obsessed culture. Just turn on an episode of *Keeping up with the Kardashians* and watch the ‘real’ (read: scripted) drama of its celebrity heroines, famous mostly for their presence on the show. When the cameras catch Kim Kardashian crying, are we privy to a rare display of vulnerability? Is she simply a good actress? Or is she unable to distinguish between her own emotions and her display of them, engineered to satisfy her audience? If ‘WORK’ raises such questions, it does so in order to draw attention to the unstable conditions of viewership. The infrastructure that blurs such distinctions – between audience and actor, real and simulated – is always fully visible. If we could always see how images are made, we might be more sceptical of snake oil salesmen; more critical of state propaganda.
+
+In common parlance, ‘E.S.P.’ stands for ‘extra-sensory perception’, an occultist’s term for clairvoyance. (It actually refers to Louis V E.S.P., a gallery and project space that Kiernan ran with Ethan Miller from 2009 to 2011; ‘E.S.P.’ was shorthand for ‘Ethan and Scott’s Place’.) You’ll find no mind control at Pioneer Works, but ‘WORK’ does enhance our self-perception – at least of the many ways we perform, when we know someone important might be watching.
+
+*E.S.P. TV, ‘WORK’, curated by David Everitt Howe, runs at [Pioneer Works](http://pioneerworks.org/exhibitions/work-esp-tv/), New York until 26 March.*
+
+*Main image: E.S.P. TV, ‘Work’, installation view, Pioneer Works, New York. Photograph: © Andrew Romer*

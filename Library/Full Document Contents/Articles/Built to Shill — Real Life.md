@@ -1,0 +1,66 @@
+# Built to Shill — Real Life
+
+![rw-book-cover](https://reallifemag.com/wp-content/uploads/2019/04/Screen-Shot-2018-11-24-at-14.25.44.png)
+
+## Metadata
+- Author: [[Real Life]]
+- Full Title: Built to Shill — Real Life
+- Category: #articles
+- Publication date: 2019-04-23
+- URL: https://reallifemag.com/built-to-shill/
+- Summary: https://reallifemag.com/built-to-shill/
+
+# Notes
+
+[[Real Life - Built to Shill — Real Life]]
+
+***
+
+The fiction of convenience makes cities less livable
+
+![](https://reallifemag.com/wp-content/uploads/2019/04/Screen-Shot-2018-11-24-at-14.25.44.png)Image: Escalation (2018) by Olga Chernysheva. Courtesy Foxy Production, New York.
+**[Building to Code](https://reallifemag.com/tag/building-to-code) *is a monthly column about how we live among cities and each other. It regards cities as what they’ve always been: not systems of capitalist resource management, but the stages that society plays out on.***
+
+Consider the humble city planner: a dutiful servant whose job it is to make the city more livable through judicious use of regulation, design, and public engagement. Perhaps they want to improve a neighborhood with some bike lanes and a community playground: two pieces of city infrastructure that benefit people who may not be able to afford a car or have a backyard. The nicer you make those bike lanes or that park, however, the more likely you are to spark gentrification and with it, the displacement of the poor whose lives you wanted to improve.
+
+Samuel Stein, an urban geographer studying at the CUNY Graduate Center and teaching at Hunter College, wrote *Capital City: Gentrification and the Real Estate State* as an elegy for his beloved planning profession. Early figures in urban planning saw their practice as a peaceful means of transitioning capitalist cities to egalitarian planned settlements. What happened instead, over the last century, was the tactical deployment of urban planners by elites to manage contests over land and power in industrial cities and post-slavery agricultural regions. Planners brought life-saving sanitation and dignified housing to countless city dwellers but also prevented the seizure of land by native, formerly enslaved, and working people.
+
+>  Because the real estate state isn’t about constructing buildings so much as owning land, it makes sense that the complex is deeply invested in the burgeoning “smart city” market
+> 
+>  
+
+The challenges faced by millions of modern urbanites are imminently solvable problems of logistics and design and yet “capitalism makes the best of planning impossible,” Stein writes: “any good that planners do is filtered through a system that dispossesses those who cannot pay.” Such is the fate of anyone living under what he calls the real estate state: “a political formation in which real estate capital has inordinate influence over the shape of our cities, the parameters of our politics and the lives we lead.”
+
+At the heart of the real estate state lie the *finance, insurance, and real-estate industries* (collectively referred to by the appropriately destructive-sounding acronym FIRE), the fastest growing sectors of the economy. These industries exist to increase the price of land and extract rent from what gets built on top of it. Providing shelter, safe places to work, and efficient means of getting between them comes second. The consequences are predictably cruel: vacant homes outnumber the homeless three to one and self-sustaining neighborhoods succumb to the economics of chain retail and corporate rents. City budgets wither away as they take on all the financial risk of financing construction and maintaining infrastructure while developers build cheaper, flimsier, more self-similar buildings.
+
+Because the real estate state isn’t about constructing buildings so much as owning the land under them and charging people rent, it makes sense that the complex is deeply invested in the burgeoning “smart city” market. FIRE industries’ success come from betting on the outcomes of their own investments. Will this neighborhood gentrify in the next decade? Will that building flood within the next 30 years? Getting profitable answers to these questions require both information and finely-tuned control over human behavior and resource allocation. Increasingly, Silicon Valley’s familiar brands are finding revenue streams in the real estate state’s constituent FIRE industries.
+
+Whereas elites of the 20th century had to actually neglect, demolish, and rebuild physical buildings to manipulate the price of land, the new titans of the FIRE industry can create artificial scarcity — from Uber availability to who your roommates are — with algorithms. With the surveillance technologies built into their Toronto and Hudson Yards projects, Google does to these buildings what they made billions doing to the internet: monitoring for advertising opportunities. Meanwhile, the We Company has grown from a humble but trendy co-working space to a globe-spanning real estate empire. Their recent smart cities initiative was introduced as part of a commitment to “globalization, urbanization, and climate change”; it is easy to imagine members-only WeCities as literal oases surrounded by guarded gates to keep out climate refugees. Big tech is poised to take the inscrutable filtering and sorting methods used on your Facebook Newsfeed or your Google search results and apply them to the streetscape.
+
+The real estate state may be American-made, but as with most of our terrible ideas, this strategy has been exported globally. Raquel Rolnik, a former UN Special Rapporteur on housing, has traveled the world cataloguing the privatization of land and has consolidated years of work into *Urban Warfare: Housing Under the Empire of Finance.* While the context and the intensity change dramatically from country to country, Rolnik sees a robust trend: any land not subject to market forces — public housing, government land — must be privatized and sold. The initial sale creates massive amounts of debt in the form of new mortgages and loans which, in turn, sets off a cascade of land speculation that drives new construction. What gets built invariably does more to serve banks’ balance sheets than local housing needs. Massive glass towers, luxury malls, and gated communities sprout like daisies in spring, but the migrant workers who build them can never expect dignified homes of their own.
+
+>  The technologies that would sell us a subscription to a generic city will appear as delightful relief in a hectic world
+> 
+>  
+
+Like Stein, Rolnik has studiously catalogued the financialization of the planet’s surface, describing the role of municipal planners, NGOs, and investment banks in actively dismantling public housing while also inventing exotic financial instruments to extract ever-growing rents from a larger swatch of humanity — for instance, issuing subprime “microfinance” loans of as little as $300 to residents of Rio’s favelas or New Delhi slums with interest rates as high as 70 percent. With report titles like C.K. Prahalad’s 2004 “The Fortune at the Bottom of the Pyramid: Eradicating Poverty Through Profits,” it is clear that bankers’ intentions involve a massive wealth transfer from the so-called “bottom billion” of global wage earners to a handful of banking institutions.
+
+Rolnik’s book starts in the United States, and follows the FIRE industries as they roil outward to the margins. But Silicon Valley is busy finding the bottom billion at home. Neither Rolnik nor Stein reckon with the web and big tech’s role in the real estate state, although both books lay a solid foundation for understanding how and why tech will transform cities from unique, incomparable places to a suite of services and subscriptions. Whereas no taxi company has ever grown beyond regional supremacy, Uber is a globe-spanning service whose growth increases congestion while starving municipal transit systems of fare money. The We Company’s recent foray into smart city technologies, according to [Quartz’ Simone Stolzoff](https://qz.com/work/1576322/we-company-hired-a-google-executive-to-launch-a-smart-cities-project/), will “build on what We has already done inside the building, take it outside, and reimagine a sort of connective tissue for 21st-century cities.” Private ownership could enable “a *Blade Runner*-esque future where members-only WeCities exist within every metropolitan area.”
+
+The technologies that would sell us a subscription to a generic city will appear as delightful relief in a hectic world. Even for the relatively affluent, modern urban existence requires the same double freedom Marx described of the industrial worker: free to do nothing but work, work being the only way to meet your needs. This exerts a psychological as well as a financial toll. Uber and WeWork are the solutions to and constituent parts of the problems their funders created: a way to get around and work anywhere your gigs take you. Digital platforms, funded by the same financial firms that push austerity, precarity, and bureaucratic confusion onto the individual, offer an alluring sense of convenience. The individual finds themselves stuck: the alienation of work leaves you desiring those baubles and experiences that money provides. This is the twisted logic of building cities as investment vehicles instead of homes and shops for people.
+
+Most are destined to experience the rise of the real estate state as personal tragedy. The fee that shows up in your bank account to punish you for not having enough money. The dozens of apartments on the block rented out nightly on Airbnb for 10 times the price of an annual lease. Your landlord raising your rent while your sink and ceiling compete for who can drip the most. These are artifacts of capitalism; things that you directly experience that if they were to go away, might signal some better world is coming. Political problems are not just loose collections of tragedy and inconvenience, and yet it is difficult to say what else is missing.
+
+>  Recognizing our constitutive role in it all, we can both acknowledge how small we are but also how interconnected, and the power of collective effort
+> 
+>  
+
+To fill in the gaps we need a way to think about things as greater than the sum of their parts. The real estate state is an example of what Timothy Morton would call a “[hyperobject](https://reallifemag.com/big-and-slow/),” which he defines, in a 2013 book of the same name, as something “massively distributed in time and space relative to humans.” It is difficult, if not impossible to take in a hyperobject all at once. Instead you get small pieces — local manifestations — that hint at the larger whole: in the case of global warming, which is Morton’s focus, a particularly bad hurricane; in this case, a gentrified neighborhood.
+
+Hyperobjects are so massive that they have a way of bending things to their will: they are a wedge issue in politics, a monopoly in the market, a gravity well in the solar system. We feel too small and weak to confront them. Instead, we carry out our lives in hypocritical doublespeak: acknowledging their destructive power but doing nothing to stop it. Where you keep your money (no matter how little) where you live (no matter how humble) always feeds the hyperobject. This enormous thing is also deeply sensual and personal: You may hate capitalism but love your childhood home and use the laws of land ownership to protect it and keep it as your own. You hate Uber, but your car is in the shop and it’s the only way to get to work on time. This is, in part, why Morton says that “the time of hyperobjects is a time of hypocrisy.”
+
+Rolnik and Stein understand that if the poor and over-worked only have enough money and time to shop at Walmart or order from Amazon, this is the system working as it was intended. With each attempt at saving today’s meager earnings you feed the hyperobject, giving it more power to extract more from you tomorrow. Recognizing our constitutive role in it all, we can both acknowledge how small we are — that our individual spending habits are not enough to change things — but also how interconnected we are, and the power of collective effort.
+
+Stein ends his book with a chapter titled “Unmaking the Real Estate State,” though he concedes that exactly how this will happen is “impossible to know and would be arrogant to diagnose.” Rolnik concludes that “a new coalition of social movements is starting to come together” around housing justice and the right to the city. People are getting wise to the fact that there is plenty to go around, and their demands should be the right to democratic participation in allocating city resources, not *just* the provision of new housing or services from the capitalists that build them. Stein and Rolnik have laid out the motivations for, and tools to fight against the FIRE industries that would sell us back society at a premium. The near future will be full of such offers, but the solutions to a world on fire require putting fewer things up for sale.
+
+[David A. Banks](https://twitter.com/DA_Banks) writes about cities, technology, and society from Troy, NY.
