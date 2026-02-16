@@ -11,13 +11,14 @@
             "id": "2f57bb98c77ba685",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -193,6 +194,7 @@
   "active": "2f57bb98c77ba685",
   "lastOpenFiles": [
     "Untitled.base",
+    "Test.md",
     "notes.git",
     "Library/Full Document Contents/Articles/Silvio Lorusso Serif Populism, Hyperpolitics and the Diminishing Returns of Graphic Design Culture.md",
     "Library/Full Document Contents/Books/1aa5164301064041bdf96d66af6a7362.md",
@@ -218,7 +220,6 @@
     "Library/Full Document Contents/Articles/Can Jokes Bring Down Governments Memes, Design and Politics.md",
     "Library/Articles/Emily Green - Mad Dutch Disease.md",
     "Library/Full Document Contents/Articles/Mad Dutch Disease.md",
-    "Library/Articles/Post-Culture by Sibling Studio - From Consuming the Product to Becoming the Product..md",
     "Library/Podcasts",
     "Library/Books",
     "Library/Full Document Contents/Books",
@@ -227,7 +228,6 @@
     "Library/Articles",
     "Library",
     "Untitled 2.base",
-    "Untitled.canvas",
-    "Untitled"
+    "Untitled.canvas"
   ]
 }
