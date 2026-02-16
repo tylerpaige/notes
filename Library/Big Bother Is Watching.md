@@ -1,0 +1,16 @@
+---
+Author: Jacob Silverman
+Full Title: Big Bother Is Watching
+Category:
+Document Tags:
+  - - Liked
+URL: http://thebaffler.com/salvos/big-bother-slack-silverman
+Publication: The Baffler
+---
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+
+## Highlights
+- “a novel form of work-like non-work,” ([View Highlight](https://instapaper.com/read/896285270/5041150))
+- a new messaging app that embodies the dissolving distinction between personal and professional digital spaces.” ([View Highlight](https://instapaper.com/read/896285270/5041275))
+- No amount of performativity, it seems to me, can truly outsmart an always-on app. ([View Highlight](https://instapaper.com/read/896285270/5041300))

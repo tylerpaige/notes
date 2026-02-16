@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "58cba247c0eeff29",
+        "id": "814049afddad0593",
         "type": "tabs",
         "children": [
           {
-            "id": "2f57bb98c77ba685",
+            "id": "402692f18633a03e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "file": "LibraryDb.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "lucide-table",
+              "title": "LibraryDb"
             }
           }
         ]
@@ -191,43 +190,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f57bb98c77ba685",
+  "active": "402692f18633a03e",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Test.md",
-    "notes.git",
-    "Library/Full Document Contents/Articles/Silvio Lorusso Serif Populism, Hyperpolitics and the Diminishing Returns of Graphic Design Culture.md",
-    "Library/Full Document Contents/Books/1aa5164301064041bdf96d66af6a7362.md",
-    "Library/Articles/Silvio Lorusso - What Design Can’t Do Essays on Design and Disillusion.md",
-    "Library/Full Document Contents/Articles/What Design Can’t Do Essays on Design and Disillusion.md",
-    "Library/Articles/Metahaven - Can Jokes Bring Down Governments Memes, Design and Politics.md",
-    "Library/Full Document Contents/Articles/The Diminishing Marginal Value of Aesthetics.md",
-    "Library/Full Document Contents/Books/Humiliation.md",
-    "Library/Full Document Contents/Books/Dark matter and trojan horses. A strategic design vocabulary..md",
-    "Library/Full Document Contents/Articles/Hertzian Tales Electronic Products, Aesthetic Experience, And Critical Design.md",
-    "Library/Full Document Contents/Books/Uncomputable Play and Politics In the Long Digital Age.md",
-    "Library/Full Document Contents/Articles/The Marvelous Clouds Toward a Philosophy of Elemental Media.md",
-    "Library/Full Document Contents/Books/States of Injury.md",
-    "Library/Full Document Contents/Books/Lao Tzu.md",
-    "Library/Full Document Contents/Books/Blockchain Chicken Farm.md",
-    "Library/Full Document Contents/Articles/The Whitney Identity Responding to W(hat).md",
-    "Library/Full Document Contents/Books/Bullshit Jobs.md",
-    "Library/Full Document Contents/Articles/Experimental Jetset.md",
-    "Library/Full Document Contents/Articles/A Quest for Meaning in a Dystopian Era.md",
-    "Library/Full Document Contents/Books/Caliban and the Witch.md",
-    "Library/Full Document Contents/Books/Failed to read Cruising_Utopia_10th_Anniversary_Edition__The_Then_and_--_Jose_Esteba.epub.md",
-    "Library/Full Document Contents/Articles/Uncorporate Identity.md",
-    "Library/Full Document Contents/Articles/Can Jokes Bring Down Governments Memes, Design and Politics.md",
-    "Library/Articles/Emily Green - Mad Dutch Disease.md",
-    "Library/Full Document Contents/Articles/Mad Dutch Disease.md",
-    "Library/Podcasts",
-    "Library/Books",
-    "Library/Full Document Contents/Books",
-    "Library/Full Document Contents/Articles",
+    "Library/Full Document Contents/Trouble in Lakewood.md",
+    "LibraryDb.base",
+    "Library/Full Document Contents/The Underground Neo-Nazi Promo Campaign Behind Adult Swim’s Alt-Right Comedy Show.md",
+    "Library/Full Document Contents/Towards a Critical Faculty.md",
+    "Library/Full Document Contents/Trump, Clinton, and the Electoral Politics of Bitcoin.md",
+    "Library/Full Document Contents/What Design Can’t Do Essays on Design and Disillusion.md",
+    "Library/Full Document Contents/Uber’s Undoing Part II Local vs. Global.md",
+    "Library/How the Bauhaus Became the 20th Century’s Most Influential Movement.md",
+    "Library/Full Document Contents/Why Doesn’t America Have Universal Health Care One Word Race.md",
+    "Library/The Author as Producer.md",
+    "Library/Full Document Contents/Why's that company so big I could do that in a weekend.md",
+    "Library/Full Document Contents/When Wall Street Is Your Landlord.md",
+    "Library/Full Document Contents/Workshop Work, Labor, and Automation.md",
+    "Library/Full Document Contents/Workers Fear Not the Robot Apocalypse.md",
+    "Library/Tense Relations.md",
+    "Library/Full Document Contents/You don’t protect my freedom Our childish insistence on calling soldiers heroes deadens real democracy.md",
+    "Library/Strangely Familiar Design and Everyday Life.md",
+    "Library/In Defense of the Poor Image.md",
+    "Library/Just Re-Do It Tactical Formlessness and Everyday Consumption.md",
+    "Library/How Bauhaus Redefined What Design Could Do for Society.md",
+    "Library/The New Napster How Sci-Hub Is Blowing Up the Academic Publishing Industry.md",
+    "Library/On Design Thinking.md",
+    "Library/Obscure Sorrows Thoughts Around the 9th Berlin Biennale - Journal - E-Flux.md",
+    "Library/Myths of the 1 Percent What Puts People at the Top.md",
+    "Library/Surya Mattu Explaining the Unseen.md",
+    "Library/Machine Bias There’s Software Used Across the Country to Predict Future Criminals. And It’s Biased Against Blacks..md",
+    "Library/Reskilling the Art Student.md",
     "Library/Full Document Contents",
-    "Library/Articles",
     "Library",
-    "Untitled 2.base",
+    "Untitled.base",
+    "Reading Notes/Silvio Lorusso - What Design Can’t Do",
+    "Templates",
+    "Untitled 1.base",
+    "Bookmarks/Full Document Contents/LibraryDb.base",
+    "Reading Notes",
+    "notes.git",
     "Untitled.canvas"
   ]
 }

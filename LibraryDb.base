@@ -1,0 +1,31 @@
+formulas:
+  Type: if(file.folder.contains("Full Document"), "Original Text", if(file.folder.contains("Library"), "Bookmarks/Highlights", "Notes"))
+  Author: file.properties.Author
+  Foo: if(formula.Type.contains("Notes"), note["Published in"], note["Full Title"])
+  Group: if(note["Published in"], note["Published in"], note["Full Title"])
+  Row Title: if(note["Published in"], join(note["Published in"], note["Full Title"]), note["Full Title"])
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.inFolder("Reading Notes")
+        - file.inFolder("Library")
+    groupBy:
+      property: formula.Group
+      direction: ASC
+    order:
+      - file.name
+      - formula.Type
+      - Author
+      - Publication
+      - Full Title
+      - Title
+      - Published in
+      - formula.Group
+      - formula.Row Title
+    sort:
+      - property: formula.Group
+        direction: ASC
+      - property: formula.Row Title
+        direction: ASC
