@@ -1,7 +1,7 @@
 ---
 Author: Kees Dorst , Nigel Cross
-Full Title: Creativity in the Design Process: Co-Evolution of Problem–solution
-Category: #articles
+Full Title: "Creativity in the Design Process: Co-Evolution of Problem–solution"
+Category:
 URL: https://www.sciencedirect.com/science/article/pii/S0142694X01000096
 Summary: Study of nine designers shows creativity arises when the design problem and solution evolve together. Defining and reframing the problem helps produce original ideas. Creative breakthroughs happen when a key concept links problem and solution, creating surprise and originality.
 ---
