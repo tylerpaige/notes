@@ -1,6 +1,6 @@
 ---
-Author: holovaty.com
-Full Title: A Fundamental Way Newspaper Sites Need to Change | Holovaty.com
+Author: Adrian Holovaty
+Full Title: A Fundamental Way Newspaper Sites Need to Change
 URL: http://www.holovaty.com/writing/fundamental-change/
 ---
 

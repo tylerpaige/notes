@@ -1,6 +1,6 @@
 ---
 Author: Linden Crawford
-Full Title: ‘All in One Piece’
+Full Title: All in One Piece
 Category:
 Publication date: 2018-06-01
 URL: https://www.nytimes.com/interactive/2018/06/01/sunday-review/all-in-one-piece-gender-top-surgery.html

@@ -139,7 +139,9 @@
     "56017871",
     "readerdocument:01k94wdsmrbtegb5anpfjtekpn",
     "readerdocument:01k94wdvcvn8w5ajcmxaz63b1r",
-    "readerdocument:01k94wegdq6s5pezz7x0m3qwj1"
+    "readerdocument:01k94wegdq6s5pezz7x0m3qwj1",
+    "readerdocument:01kh2m3keddns4t6213r3csmt8",
+    "readerdocument:01k94we3px830kyg72x29nxjqk"
   ],
   "failedBooks": [],
   "booksIDsMap": {
@@ -756,7 +758,6 @@
     "Library/Full Document Contents/In Defense of Inconvenience.md": "readerdocument:01k94wdrrm3eky7g4m3wvsra31",
     "Library/Full Document Contents/Why Corporations Are Helping Donald Trump Lie About Jobs - The New York Times.md": "readerdocument:01k94wedwfrw4sd3399pk392t2",
     "Library/Full Document Contents/How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist-2.md": "readerdocument:01k94wej8myyfmw9hev7043yc4",
-    "Library/Full Document Contents/#Milosexual and the Aesthetics of Fascism.md": "readerdocument:01k94we2f2748qtpqrgjdpdfxv",
     "Library/Full Document Contents/When Wall Street Is Your Landlord.md": "readerdocument:01k94wds4hk2pjrpj6fkjb9q4e",
     "Library/Full Document Contents/CashConsent.md": "readerdocument:01k94wdqr111x07a1b9v4sxa9q",
     "Library/Full Document Contents/The Moron’s Case For Hillary Clinton…because some of you really are that stupid..md": "readerdocument:01k94we6b6zrsjdz4teq508avy",
@@ -849,10 +850,8 @@
     "Library/A New Study Says Young Americans Have a Broad Definition of News.md": "56017876",
     "Library/404 Page Not Found Kate Wagner.md": "56017989",
     "Library/Full Document Contents/404 Page Not Found Kate Wagner.md": "readerdocument:01k94wdsvzed0dgmjyqte0y7y5",
-    "Library/Full Document Contents/1aa5164301064041bdf96d66af6a7362.md": "readerdocument:01kh2m3keddns4t6213r3csmt8",
     "Library/Full Document Contents/Building Global Community.md": "readerdocument:01k94we24m3a0fsvb67rbz5tak",
     "Library/Full Document Contents/A look inside the logic of LOT2046.md": "readerdocument:01k94wect7be6vm94z57tt9p4q",
-    "Library/Full Document Contents/410 Deleted by author — Medium.md": "readerdocument:01k94we3px830kyg72x29nxjqk",
     "Library/Full Document Contents/A new study says young Americans have a broad definition of news.md": "readerdocument:01k94wedhx8vxr4qa44pmev40t",
     "Library/Full Document Contents/Gerrymandering, a Tradition as Old as the Republic, Faces a Reckoning.md": "readerdocument:01k94wdym9ackc100s7dg8j439",
     "Library/Full Document Contents/The Obsolescence of Capitalism.md": "readerdocument:01k94wdy74997m3qew82fmcm8f",
@@ -861,7 +860,8 @@
     "Library/Black Bodies, White Cubes The Problem With Contemporary Art’s Appropriation of Race.md": "56017896",
     "Library/Exhibiting Change When Some of the Best-Attended Exhibitions in Museums Are Protests, Where Do Institutions Go From Here.md": "56017971",
     "Library/Full Document Contents/This Is Not a Game.md": "readerdocument:01k94wdpsthc8m0n3xczasqygk",
-    "Library/Full Document Contents/The Problem with Muzak.md": "readerdocument:01k94wdxa88w93gce3d68z00rg"
+    "Library/Full Document Contents/The Problem with Muzak.md": "readerdocument:01k94wdxa88w93gce3d68z00rg",
+    "Library/Full Document Contents/Milosexual and the Aesthetics of Fascism.md": "readerdocument:01k94we2f2748qtpqrgjdpdfxv"
   },
   "reimportShowConfirmation": true
 }

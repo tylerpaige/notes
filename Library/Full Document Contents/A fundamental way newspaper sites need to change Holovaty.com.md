@@ -1,7 +1,7 @@
 ---
 Author: Adrian Holovaty
-Full Title: A fundamental way newspaper sites need to change | Holovaty.com
-Category: #articles
+Full Title: A Fundamental Way Newspaper Sites Need to Change
+Category:
 Publication date: 2006-09-06
 URL: http://www.holovaty.com/writing/fundamental-change/
 Summary: Newspaper websites need to change how they present information to remain relevant. Traditional story-centric approaches may not effectively convey structured data that can be repurposed. Shifting towards more machine-readable data formats can enhance information dissemination and reader engagement.

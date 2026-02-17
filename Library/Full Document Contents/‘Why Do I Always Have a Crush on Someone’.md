@@ -1,7 +1,7 @@
 ---
 Author: Heather Havrilesky
-Full Title: ‘Why Do I Always Have a Crush on Someone?’
-Category: #articles
+Full Title: Why Do I Always Have a Crush on Someone?
+Category:
 Publication date: 2019-04-10
 URL: https://www.thecut.com/2019/04/ask-polly-why-do-i-always-have-a-crush-on-someone.html
 Summary: https://www.thecut.com/2019/04/ask-polly-why-do-i-always-have-a-crush-on-someone.html

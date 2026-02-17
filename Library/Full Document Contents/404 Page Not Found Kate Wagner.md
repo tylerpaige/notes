@@ -1,6 +1,6 @@
 ---
-Author: The Baffler
-Full Title: 404 Page Not Found | Kate Wagner
+Author: Kate Wagner
+Full Title: 404 Page Not Found
 Publication date: 2019-01-07
 URL: https://thebaffler.com/salvos/404-page-not-found-wagner
 Summary: The text discusses the evolution of the internet from the nostalgic Geocities era to the present social media-dominated landscape, highlighting the loss of personalized, amateur web aesthetics. It touches on the contrast between Web 1.0's user agency and creativity with the more controlled and professional Web 2.0 interfaces, showing how tech conglomerates dictate online experiences. The essay also explores the cultural shifts in online platforms like Myspace and Facebook, reflecting on the changing aesthetics and user preferences over time.

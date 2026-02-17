@@ -1,6 +1,6 @@
 ---
 Author: John Chiaverina
-Full Title: "‘Its Own Sovereign State’: Catching Up With The NON Collective At The New Museum | ARTnews"
+Full Title: "‘Its Own Sovereign State’: Catching Up With The NON Collective At The New Museum"
 Category:
 Publication date: 2016-06-01
 URL: http://www.artnews.com/2016/06/01/its-own-sovereign-state-catching-up-with-the-non-collective-at-the-new-museum/

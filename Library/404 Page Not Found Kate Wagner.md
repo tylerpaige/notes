@@ -1,6 +1,6 @@
 ---
-Author: thebaffler.com
-Full Title: 404 Page Not Found | Kate Wagner
+Author: Kate Wagner
+Full Title: 404 Page Not Found
 Publication date: 2019-01-07
 URL: https://thebaffler.com/salvos/404-page-not-found-wagner
 ---
