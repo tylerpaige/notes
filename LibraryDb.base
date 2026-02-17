@@ -1,3 +1,7 @@
+filters:
+  or:
+    - file.inFolder("Library")
+    - file.inFolder("Reading Notes")
 formulas:
   Type: if(file.folder.contains("Full Document"), "Original Text", if(file.folder.contains("Library"), "Bookmarks/Highlights", "Notes"))
   Author: file.properties.Author
@@ -7,10 +11,6 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      or:
-        - file.inFolder("Reading Notes")
-        - file.inFolder("Library")
     groupBy:
       property: formula.Group
       direction: ASC

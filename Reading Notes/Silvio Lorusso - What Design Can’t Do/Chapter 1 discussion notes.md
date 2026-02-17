@@ -1,8 +1,8 @@
 ---
 Author: Silvio Lorusso
 Title: In The Middle
-Bookmarks: "[[Silvio Lorusso - What Design Can’t Do Essays on Design and Disillusion]]"
-Full text: "[[What Design Can’t Do Essays on Design and Disillusion]]"
+Bookmarks: "[[Library/What Design Can’t Do Essays on Design and Disillusion|What Design Can’t Do Essays on Design and Disillusion]]"
+Full text: "[[Library/Full Document Contents/What Design Can’t Do Essays on Design and Disillusion|What Design Can’t Do Essays on Design and Disillusion]]"
 Published in: "What Design Can’t Do: Essays on Design and Disillusion"
 Publication Date: "2003"
 Chapter: "1"
