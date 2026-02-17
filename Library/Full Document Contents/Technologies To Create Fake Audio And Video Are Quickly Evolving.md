@@ -4,7 +4,7 @@ Full Title: Technologies To Create Fake Audio And Video Are Quickly Evolving
 Category: #articles
 Publication date: 2018-04-02
 URL: https://www.npr.org/2018/04/02/598916380/technologies-to-create-fake-audio-and-video-are-quickly-evolving
-Summary: "Fake news" has become a commonly used term in politics, but often to refute real reporting. Now technology that creates fake audio is advancing to the point that it could undermine true recordings.
+
 ---
 
 ![rw-book-cover](https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg)

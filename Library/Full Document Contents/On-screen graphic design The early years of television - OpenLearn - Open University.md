@@ -1,7 +1,7 @@
 ---
 Author: Open Learning
-Full Title: On-screen graphic design: The early years of television - OpenLearn - Open University
-Category: #articles
+Full Title: "On-screen graphic design: The early years of television"
+Category:
 Publication date: 2015-09-22
 URL: http://www.open.edu/openlearn/science-maths-technology/engineering-and-technology/design-and-innovation/design/on-screen-graphic-design-the-early-years-television
 Summary: With the birth of television as a mass medium, suddenly a whole new visual language was needed. One that would work on tiny, flickering, monochromatic screeens. The work of pioneering TV graphic ...

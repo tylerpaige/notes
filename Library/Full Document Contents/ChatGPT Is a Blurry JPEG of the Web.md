@@ -4,7 +4,6 @@ Full Title: ChatGPT Is a Blurry JPEG of the Web
 Category: #articles
 Publication date: 2023-02-09
 URL: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
-Summary: ChatGPT and similar models act like lossy compression for the web: they keep much of the information but only an approximate, "blurry" version. This explains why they can rephrase well but also invent facts ("hallucinate"). If model-generated text floods the web, the web itself may become blurrier and harder to trust.
 ---
 
 ![rw-book-cover](https://media.newyorker.com/photos/63e43e3f986288e90c859958/16:9/w_1280,c_limit/Chiang_final.png)

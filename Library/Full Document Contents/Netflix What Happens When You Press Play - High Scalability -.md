@@ -1,7 +1,7 @@
 ---
-Author: Recommendations.
-Full Title: Netflix: What Happens When You Press Play? - High Scalability -
-Category: #articles
+Author: High Scalability
+Full Title: "Netflix: What Happens When You Press Play?"
+Category:
 Publication date: 2022-12-14
 URL: http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
 Summary: Netflix operates using two clouds, AWS and its own CDN called Open Connect, to deliver video globally. It focuses on optimizing video delivery by predicting viewer preferences and caching content close to users. By controlling the entire video path, Netflix enhances the viewing experience while avoiding the need for its own datacenters.

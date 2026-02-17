@@ -1,10 +1,11 @@
 ---
-Author: Real Life
-Full Title: This Is Not a Game — Real Life
-Category: #articles
+Author: Jon Glover
+Full Title: This Is Not a Game
+Category:
 Publication date: 2020-07-23
 URL: https://reallifemag.com/this-is-not-a-game/
 Summary: Conspiracy theories have become like alternate reality games (ARGs) that are played out across various media platforms, including social media. These games provide a sense of community and purpose for believers, who are drawn to the drama and high-stakes nature of conspiracy theories. The appeal of conspiracy theories lies in their ability to offer answers to life's ambiguities and a rebuke of institutional corruption. However, the immersive nature of these games can have dangerous consequences, as seen in the spread of disinformation and the politicization of medical advice during the COVID-19 pandemic. Understanding the game-like structure and affective rewards of conspiracy theories can help inoculate individuals from falling into full immersion in conspiracy culture.
+Publication: Real Life
 ---
 
 ![rw-book-cover](https://reallifemag.com/wp-content/uploads/2020/07/cropped-pizzagate-neon-1024x799.jpg)

@@ -2,7 +2,7 @@
 Author: Nikita Walia
 Full Title: From Helvetica to Hell
 Category: #articles
-Document Tags: [[design]] [[politics]] 
+
 URL: https://nikitawalia.substack.com/p/from-helvetica-to-hell
 ---
 

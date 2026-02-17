@@ -4,9 +4,6 @@ Full Title: Who needs democracy when you have data?
 Category: #articles
 Publication date: 2018-08-20
 URL: https://www.technologyreview.com/s/611815/who-needs-democracy-when-you-have-data/
-Summary: China is using surveillance, AI, and big data to monitor and shape citizens’ behavior instead of democratic participation.  
-These systems — like social credit, smart cities, and Xinjiang’s predictive policing — centralize control and limit recourse for the accused.  
-While data can help governance, flaws in data, secrecy, and rising privacy concerns create risks and pushback.
 ---
 
 ![rw-book-cover](https://wp.technologyreview.com/wp-content/uploads/2018/08/so18-china-1-17.jpg?resize=1200,600)

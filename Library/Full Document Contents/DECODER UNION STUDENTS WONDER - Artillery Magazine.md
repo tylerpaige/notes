@@ -1,7 +1,7 @@
 ---
 Author: Zak Smith
-Full Title: DECODER: UNION STUDENTS WONDER - Artillery Magazine
-Category: #articles
+Full Title: "DECODER: UNION STUDENTS WONDER"
+Category:
 Publication date: 2013-09-03
 URL: http://artillerymag.com/decoder-union-students-wonder/
 Summary: http://artillerymag.com/decoder-union-students-wonder/

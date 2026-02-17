@@ -1,11 +1,13 @@
 ---
 Author: Alan Maass, Lee Sustar
-Full Title: Why They Won | Jacobin
-Category: #articles
+Full Title: Why They Won
+Category:
 Publication date: 2016-06-07
-Document Tags: [[favorite]] 
+Document Tags:
+  - - favorite
 URL: https://www.jacobinmag.com/2016/06/verizon-strike-contract-deal-cwa-ibew-union-pickets/
 Summary: The Verizon workers' campaign for union democracy set the stage for a successful strike.
+Publication: Jacobin
 ---
 
 ![rw-book-cover](https://jacobin.com/static/img/logo/logo-type.png)

@@ -1,7 +1,7 @@
 ---
 Author: Lisa Blanning
-Full Title: Common ground: Holly Herndon in conversation with James Bridle
-Category: #articles
+Full Title: "Common ground: Holly Herndon in conversation with James Bridle"
+Category:
 Publication date: 2019-08-15
 URL: https://crackmagazine.net/article/long-reads/common-ground-holly-herndon-in-conversation-with-james-bridle/
 Summary: Where do humans and machines overlap? Can we ever understand AI? Composer Holly Herndon contemplates our near future with technologist James Bridle

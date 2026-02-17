@@ -1,7 +1,7 @@
 ---
 Author: Michael Rock
-Full Title: The Metallic Muse: Fashion’s Sci-Fi Obsession
-Category: #articles
+Full Title: "The Metallic Muse: Fashion’s Sci-Fi Obsession"
+Category:
 Publication date: 2016-06-07
 URL: http://www.nytimes.com/2016/06/07/t-magazine/fashion/gold-gilded-fashion-beauty-trend.html
 Summary: From metal-clad runway models to video-game heroines as muses, the future is more current than ever.

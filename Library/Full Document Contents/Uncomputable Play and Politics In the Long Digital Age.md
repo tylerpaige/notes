@@ -1,7 +1,7 @@
 ---
 Author: Alexander R. Galloway
-Full Title: Uncomputable: Play and Politics In the Long Digital Age
-Category: #books
+Full Title: "Uncomputable: Play and Politics In the Long Digital Age"
+Category:
 URL: https://read.readwise.io/read/01kg1aa4pxckhz417cdjgn5m23
 Summary: This book explores how computers and digital networks both connect and break apart over time. It retells key experiments to show how computation works and sometimes fails. The author highlights how digital systems shape politics and society, balancing control and freedom.
 ---

@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "814049afddad0593",
+        "id": "007cf3c06969d0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "402692f18633a03e",
+            "id": "44ae9754c6ae7b79",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "bases",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "LibraryDb.base",
+                "viewName": "Table"
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-table",
+              "title": "LibraryDb"
             }
           }
         ]
@@ -191,34 +190,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "402692f18633a03e",
+  "active": "44ae9754c6ae7b79",
   "lastOpenFiles": [
+    "Library/Full Document Contents/The Problem with Muzak.md",
     "LibraryDb.base",
-    "Library/Full Document Contents/Trouble in Lakewood.md",
-    "Library/Full Document Contents/The Underground Neo-Nazi Promo Campaign Behind Adult Swim’s Alt-Right Comedy Show.md",
-    "Library/Full Document Contents/Towards a Critical Faculty.md",
-    "Library/Full Document Contents/Trump, Clinton, and the Electoral Politics of Bitcoin.md",
-    "Library/Full Document Contents/What Design Can’t Do Essays on Design and Disillusion.md",
-    "Library/Full Document Contents/Uber’s Undoing Part II Local vs. Global.md",
-    "Library/How the Bauhaus Became the 20th Century’s Most Influential Movement.md",
-    "Library/Full Document Contents/Why Doesn’t America Have Universal Health Care One Word Race.md",
-    "Library/The Author as Producer.md",
-    "Library/Full Document Contents/Why's that company so big I could do that in a weekend.md",
-    "Library/Full Document Contents/When Wall Street Is Your Landlord.md",
-    "Library/Full Document Contents/Workshop Work, Labor, and Automation.md",
-    "Library/Full Document Contents/Workers Fear Not the Robot Apocalypse.md",
-    "Library/Tense Relations.md",
-    "Library/Full Document Contents/You don’t protect my freedom Our childish insistence on calling soldiers heroes deadens real democracy.md",
-    "Library/Strangely Familiar Design and Everyday Life.md",
-    "Library/In Defense of the Poor Image.md",
-    "Library/Just Re-Do It Tactical Formlessness and Everyday Consumption.md",
-    "Library/How Bauhaus Redefined What Design Could Do for Society.md",
-    "Library/The New Napster How Sci-Hub Is Blowing Up the Academic Publishing Industry.md",
-    "Library/On Design Thinking.md",
-    "Library/Obscure Sorrows Thoughts Around the 9th Berlin Biennale - Journal - E-Flux.md",
-    "Library/Myths of the 1 Percent What Puts People at the Top.md",
-    "Library/Surya Mattu Explaining the Unseen.md",
-    "Library/Machine Bias There’s Software Used Across the Country to Predict Future Criminals. And It’s Biased Against Blacks..md",
+    "Library/Full Document Contents/This Is Not a Game.md",
+    "Reading Notes/Silvio Lorusso - What Design Can’t Do/Chapter 1 discussion notes.md",
+    "Library/YouTube’s Monster PewDiePie and His Populist Revolt - The New York Times.md",
+    "Library/What Is an Art School.md",
+    "Library/Why Are Gays So Mean to Each Other Online.md",
+    "Library/What Design Can’t Do Essays on Design and Disillusion.md",
+    "Library/Manufacturing Imaginaries Neo-Nazis, Men’s Rights Activists, and 3D Printing.md",
+    "Library/Full Document Contents/Machine Learning is Fun! Part 4 Modern Face Recognition with Deep Learning.md",
+    "Library/The Diminishing Marginal Value of Aesthetics.md",
+    "Library/Full Document Contents/The fall of idealistic architecture from the 1960s and '70s.md",
+    "Library/The internet is as much about affirmation as information.md",
+    "Library/Full Document Contents/Manufacturing Imaginaries Neo-Nazis, Men’s Rights Activists, and 3D Printing.md",
+    "Library/Full Document Contents/Uncomputable Play and Politics In the Long Digital Age.md",
+    "Library/Full Document Contents/What Google Learned From Its Quest to Build the Perfect Team.md",
+    "Library/Full Document Contents/Technological Underemployment Addressing Common Objections.md",
+    "Library/Full Document Contents/The Metallic Muse Fashion’s Sci-Fi Obsession.md",
+    "Library/Full Document Contents/Who’s Scraping Your Intimate Bits Now — The Awl.md",
+    "Library/The Order of Things (Preface).md",
+    "Library/Full Document Contents/imperialism and technology for typography · Issue.md",
+    "Library/Full Document Contents/Anonymous 101 Introduction to the Lulz.md",
+    "Library/Full Document Contents/André Staltz - The Web began dying in 2014, here's how.md",
+    "Library/Full Document Contents/Critical Design Interface and Imagination The Brooklyn Institute for Social Research.md",
+    "Library/Full Document Contents/Common ground Holly Herndon in conversation with James Bridle.md",
+    "Library/From Helvetica to Hell.md",
+    "Library/Fuck Content.md",
     "Library/Full Document Contents",
     "Library",
     "Untitled.base",

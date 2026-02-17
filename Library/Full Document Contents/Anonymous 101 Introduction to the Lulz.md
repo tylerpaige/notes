@@ -1,10 +1,10 @@
 ---
 Author: Quinn Norton
-Full Title: Anonymous 101: Introduction to the Lulz
-Category: #articles
+Full Title: "Anonymous 101: Introduction to the Lulz"
+Category:
 Publication date: 2011-11-08
 URL: https://www.wired.com/2011/11/anonymous-101/
-Summary: (Editor’s Note: Any decent coverage of Anonymous is going to verge on some NSFW material at points. There will be questionable language and strange imagery.) Last week the net and the media were ablaze with the news that Anonymous might be taking on the Zeta drug cartel in Mexico, a story that has morphed into […]
+Publication: Wired
 ---
 
 ![rw-book-cover](https://media.wired.com/photos/5932780526780e6c04d2c070/191:100/w_1280,c_limit/anon-scientology-w1.jpg)

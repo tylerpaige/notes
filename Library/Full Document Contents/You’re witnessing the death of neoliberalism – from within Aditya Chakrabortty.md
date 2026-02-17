@@ -1,9 +1,10 @@
 ---
 Author: Aditya Chakrabortty
-Full Title: You’re witnessing the death of neoliberalism – from within | Aditya Chakrabortty
-Category: #articles
+Full Title: You’re Witnessing the Death of Neoliberalism
+Category:
 Publication date: 2016-05-31
-Document Tags: [[favorite]] 
+Document Tags:
+  - - favorite
 URL: http://www.theguardian.com/commentisfree/2016/may/31/witnessing-death-neoliberalism-imf-economists
 Summary: The document discusses the decline of neoliberalism, as highlighted by a notable paper from IMF economists questioning the ideology's impact and spread. It draws parallels to the fall of the communist dream in the novel "Red Plenty," emphasizing how insiders often lead the way in murmuring discontent before a system collapses. The IMF researchers admit that neoliberalism has failed to deliver widespread economic growth, leading to increased inequality and financial crises. This critique represents a significant departure from the previous neoliberal consensus, signaling a shift in the understanding of economic policies and their consequences.
 ---

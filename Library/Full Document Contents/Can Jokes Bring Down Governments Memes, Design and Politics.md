@@ -1,7 +1,7 @@
 ---
 Author: Metahaven
-Full Title: Can Jokes Bring Down Governments?: Memes, Design and Politics
-Category: #articles
+Full Title: "Can Jokes Bring Down Governments?: Memes, Design and Politics"
+Category:
 Publication date: 2017-02-23
 URL: https://readwise.io/reader/document_raw_content/334854189
 Summary: Memes are cultural units that spread by imitation and can influence politics by disrupting normal communication. Digital networks help memes spread quickly, but their appeal depends on being catchy and meaningful. Jokes and memes can challenge power by undermining traditional debate and becoming tools for activism.

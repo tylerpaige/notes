@@ -1,8 +1,9 @@
 ---
-Author: nytimes.com
-Full Title: YouTube’s Monster: PewDiePie and His Populist Revolt - The New York Times
-Category: #articles
+Author: John Herrman
+Full Title: "YouTube’s Monster: PewDiePie and His Populist Revolt"
+Category:
 URL: https://www.nytimes.com/2017/02/16/magazine/youtubes-monster-pewdiepie-and-his-populist-revolt.html
+Publication: The New York Times
 ---
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)

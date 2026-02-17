@@ -1,6 +1,6 @@
 ---
 Author: backchannel.com
-Full Title: It’s Not Just Robots: Skilled Jobs Are Going to “Meatware”
+Full Title: It’s Not Just Robots Skilled Jobs Are Going to “Meatware”
 Category: #articles
 URL: https://backchannel.com/its-not-just-robots-skilled-jobs-are-going-to-meatware-954adf770710#.utpuazox4
 ---

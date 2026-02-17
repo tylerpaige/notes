@@ -1,10 +1,11 @@
 ---
-Author: The Baffler
-Full Title: The Problem with Muzak | Liz Pelly
-Category: #articles
+Author: Liz Pelly
+Full Title: The Problem with Muzak
+Category:
 Publication date: 2017-12-04
 URL: https://thebaffler.com/salvos/the-problem-with-muzak-pelly
 Summary: Spotify uses playlists and algorithms to control music discovery and industry standards. Branded playlists act like ads, often including artists without permission or pay. This shift harms musicians and replaces traditional labels with Spotify’s own power.
+Publication: The Baffler
 ---
 
 ![rw-book-cover](https://thebaffler.com/wp-content/uploads/2017/12/B37_Pelly_opener.jpg)

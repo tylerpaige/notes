@@ -1,7 +1,7 @@
 ---
 Author: George Aye
-Full Title: Design Education’s Big Gap: Understanding the Role of Power
-Category: #articles
+Full Title: "Design Education’s Big Gap: Understanding the Role of Power"
+Category:
 Publication date: 2021-08-13
 URL: https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08
 Summary: Design education often overlooks the importance of understanding power dynamics in relationships between designers and communities. This gap can lead to ineffective projects, wasted resources, and broken promises to the communities being served. It's crucial for designers and educators to address this blind spot and actively work towards a more equitable approach in design practice.

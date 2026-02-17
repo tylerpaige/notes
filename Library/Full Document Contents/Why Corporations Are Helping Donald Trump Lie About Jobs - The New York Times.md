@@ -1,10 +1,11 @@
 ---
-Author: The Editorial Board
-Full Title: Why Corporations Are Helping Donald Trump Lie About Jobs - The New York Times
-Category: #articles
+Author: The New York Times Editorial Board
+Full Title: Why Corporations Are Helping Donald Trump Lie About Jobs
+Category:
 Publication date: 2017-01-02
 URL: http://www.nytimes.com/2017/01/02/opinion/why-corporations-are-helping-donald-trump-lie-about-jobs.html
 Summary: President-elect Donald Trump claims that his election is boosting job creation, but many companies, like Sprint, are simply taking advantage of his rhetoric for their own profit. The jobs Sprint announced are not new but part of earlier commitments made before Trump took office. This situation raises concerns about crony capitalism and its potential negative impact on the economy and job losses in the telecom industry.
+Publication: The New York Times
 ---
 
 ![rw-book-cover](https://static01.nyt.com/images/2017/01/02/opinion/02mon1/02mon1-facebookJumbo.jpg?year=2017&h=550&w=1050&s=c8388cbcf268eb25edff9527c04fca76db7ee6f65ae402ca17976b2ce541bc1d&k=ZQJBKqZ0VN)

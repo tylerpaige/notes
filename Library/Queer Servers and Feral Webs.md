@@ -1,8 +1,7 @@
 ---
-Author: Author Address
+Author: Austin Wade Smith
 Full Title: Queer Servers and Feral Webs
-Category: #articles
-Document Tags: [[internet]] [[queer]] [[technology]] 
+Category:
 URL: https://mirror.xyz/austinwadesmith.eth/wrBCeIWNsXbseQiLBj5jR_bkMFZ03nNYs4rg0lU8X2s
 ---
 

@@ -3,7 +3,7 @@ Author: Michel Foucault
 Full Title: The Order of Things (Preface)
 Category: #articles
 Publication date: 1969-04-01
-Document Tags: [[history]] [[marxism]] [[theory]] 
+
 URL: https://foucault.info/documents/foucault.orderOfThings.en/
 Summary: Michel Foucault explores how different cultures create and change ways of ordering knowledge over time. He shows that from the sixteenth century, Western thought shifted its view of order and knowledge deeply. This shift led to the rise of human sciences, where humans themselves became a subject of study.
 ---

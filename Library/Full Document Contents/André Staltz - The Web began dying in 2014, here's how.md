@@ -1,12 +1,10 @@
 ---
-Author: staltz.com
-Full Title: André Staltz - The Web began dying in 2014, here's how
+Author: André Staltz
+Full Title: The Web began dying in 2014
 Category: #articles
 Publication date: 2017-10-30
 URL: https://staltz.com/the-web-began-dying-in-2014-heres-how.html
-Summary: Since 2014 Google, Facebook, and Amazon control most web traffic and services.  
-Their dominance has hollowed out the open web and made publishers and sites dependent on them.  
-If ISPs and users favor those closed ecosystems, the open web could fade into a private "Trinet" with few alternatives.
+Summary: Since 2014 Google, Facebook, and Amazon control most web traffic and services.  Their dominance has hollowed out the open web and made publishers and sites dependent on them.  If ISPs and users favor those closed ecosystems, the open web could fade into a private "Trinet" with few alternatives.
 ---
 
 ![rw-book-cover](https://staltz.com/cycleconf17/apple-touch-icon.png)

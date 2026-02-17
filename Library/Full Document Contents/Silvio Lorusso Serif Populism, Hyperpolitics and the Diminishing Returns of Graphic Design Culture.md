@@ -1,7 +1,7 @@
 ---
-Author: Dinamo Typefaces
-Full Title: Silvio Lorusso: Serif Populism, Hyperpolitics and the Diminishing Returns of Graphic Design Culture
-Category: #articles
+Author: Silvio Lorusso
+Full Title: Serif Populism, Hyperpolitics and the Diminishing Returns of Graphic Design Culture
+Category:
 URL: https://abcdinamo.com/news/silvio-lorusso-serif-populism-guest-essay
 Summary: Graphic design today is shaped by a clash between simple, corporate styles and a desire for tradition and authenticity. This tension reflects deeper cultural and political divides beyond just aesthetics. Logos and design now carry strong social meanings that spark heated debates online.
 ---

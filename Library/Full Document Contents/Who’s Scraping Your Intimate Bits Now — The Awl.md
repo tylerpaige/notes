@@ -1,10 +1,8 @@
 ---
-Author: Alex Balk June 9
-Full Title: Who’s Scraping Your Intimate Bits Now? — The Awl
-Category: #articles
+Author: Alex Balk
+Full Title: Who’s Scraping Your Intimate Bits Now?
+Category:
 Publication date: 2016-06-09
-URL: https://theawl.com/whos-scraping-your-intimate-bits-now-24302c45517f
-Summary: Spoiler: Everyonebody[data-twttr-rendered="true"] {background-color: transparent;}.twitter-tweet {margin: auto !important;}Creepy startup will help landlords, employers and online dates strip-mine intimate data from your Facebook pagehttp://wapo.st/24CHSL2 — @washingtonpostfunction notifyResize(height) {height = height ? height : document.documentElement.offsetHeight;  ...
 ---
 
 ![rw-book-cover](https://www.theawl.com/wp-content/themes/theawl/images/icon-white-152.png)

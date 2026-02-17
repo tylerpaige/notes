@@ -1,9 +1,10 @@
 ---
-Author: continuations
-Full Title: Technological Underemployment: Addressing Common Objections
-Category: #articles
+Author: Albert Wenger
+Full Title: "Technological Underemployment: Addressing Common Objections"
+Category:
 Publication date: 2015-06-01
-Document Tags: [[favorite]] 
+Document Tags:
+  - - favorite
 URL: http://continuations.com/post/120441905170/technological-underemployment-addressing-common
 Summary: I have been writing a lot about the impact of technology on the labor market, arguing that we need a Universal Basic Income.  My basic premise is that technological progress is making it harder and...
 ---

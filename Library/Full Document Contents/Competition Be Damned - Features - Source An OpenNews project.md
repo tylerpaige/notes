@@ -1,7 +1,6 @@
 ---
 Author: opennews.org
-Full Title: Competition Be Damned - Features - Source: An OpenNews project
-Category: #articles
+Full Title: Competition Be Damned
 Publication date: 2017-04-27
 URL: https://source.opennews.org/articles/news-nerds-against-pdfs/
 Summary: How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data

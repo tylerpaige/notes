@@ -4,7 +4,7 @@ Full Title: The Doorbell Company That’s Selling Fear
 Category: #articles
 Publication date: 2019-05-01
 URL: https://www.theatlantic.com/ideas/archive/2019/05/amazon-owned-ring-wants-report-crime-news/588394/
-Summary: "Ring wants to be 'covering local crime' everywhere, down to the house and neighborhood level ... Are they really delivering news or just regular pulses of fear in push-notification form?" @jbenton on the Amazon doorbell company's flawed plans:
+
 ---
 
 ![rw-book-cover](https://cdn.theatlantic.com/thumbor/G1xgoKea-3_hdUbGnETZIRYgzAk=/0x0:2000x1125/960x540/media/img/mt/2019/04/Ring_sad/original.png)

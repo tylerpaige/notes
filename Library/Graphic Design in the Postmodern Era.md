@@ -2,7 +2,7 @@
 Author: Mr Keedy
 Full Title: Graphic Design in the Postmodern Era
 Category: #articles
-Document Tags: [[design]] [[politics]] [[postmodernism]] 
+
 URL: https://www.emigre.com/Essays/Magazine/GraphicDesigninthePostmodernEra
 ---
 

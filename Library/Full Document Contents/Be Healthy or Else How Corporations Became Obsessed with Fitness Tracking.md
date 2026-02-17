@@ -1,7 +1,7 @@
 ---
 Author: The Backchannel Team
-Full Title: Be Healthy or Else: How Corporations Became Obsessed with Fitness Tracking
-Category: #articles
+Full Title: "Be Healthy or Else: How Corporations Became Obsessed with Fitness Tracking"
+Category:
 Publication date: 2016-12-27
 URL: https://backchannel.com/be-healthy-or-else-how-corporations-became-obsessed-with-fitness-tracking-b0c019faff8d
 Summary: https://backchannel.com/be-healthy-or-else-how-corporations-became-obsessed-with-fitness-tracking-b0c019faff8d#.omx2w7fth

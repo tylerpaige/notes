@@ -4,7 +4,7 @@ Full Title: Brexit as Nostalgia for Empire
 Category: #articles
 Publication date: 2016-06-19
 URL: http://criticallegalthinking.com/2016/06/19/brexit-nostalgia-empire/
-Summary: The run up to the EU referendum has shown Britain for what it is. Woodwork: the washed-up bracken of the British Empire, and the ugly flotsam of its
+
 ---
 
 ![rw-book-cover](https://criticallegalthinking.com/wp-content/uploads/2016/06/Zong-Massacre.jpg)
