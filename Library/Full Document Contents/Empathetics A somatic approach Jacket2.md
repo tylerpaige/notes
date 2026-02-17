@@ -1,7 +1,7 @@
 ---
 Author: JH Phrydas
-Full Title: "Empathetics: A somatic approach"
-Category:
+Full Title: Empathetics: A somatic approach | Jacket2
+Category: #articles
 Publication date: 2016-02-05
 URL: http://jacket2.org/article/empathetics-somatic-approach
 Summary: Frustrated by debates over Conceptualism v.

@@ -4,7 +4,9 @@ Full Title: Cities and Ambition
 Category: #articles
 Publication date: 2008-05-14
 URL: http://www.paulgraham.com/cities.html
-Summary: Great cities shape what people want to be. Each city sends a different message—wealth in New York, intelligence in Cambridge, power in Silicon Valley, quality of life in Berkeley.  Being where people share your ambition makes it easier to do great work.
+Summary: Great cities shape what people want to be.  
+Each city sends a different message—wealth in New York, intelligence in Cambridge, power in Silicon Valley, quality of life in Berkeley.  
+Being where people share your ambition makes it easier to do great work.
 ---
 
 ![rw-book-cover](http://ycombinator.com/arc/arc.png)

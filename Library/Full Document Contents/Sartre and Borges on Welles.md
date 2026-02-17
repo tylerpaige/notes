@@ -4,7 +4,7 @@ Full Title: Sartre and Borges on Welles
 Category: #articles
 Publication date: 2014-08-13
 URL: http://www.theparisreview.org/blog/2014/08/12/sartre-and-borges-on-welles/
-
+Summary: In a sense, that poster doesn’t lie: everyone was talking about Citizen Kane. In another, more accurate sense, that poster does lie: not everyone was joining in that “It’s terrific!” chorus. I hadn’t known, until Open Culture told me earlier today, that Sartre and Borges numbered among Kane’s more outspoken critics. Sartre reviewed the film in 1945, meaning […]
 ---
 
 ![rw-book-cover](https://www.theparisreview.org/blog/wp-content/uploads/2014/08/citizenkane.jpg)

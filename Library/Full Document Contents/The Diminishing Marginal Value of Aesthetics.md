@@ -3,7 +3,7 @@ Author: Toby Shorin
 Full Title: The Diminishing Marginal Value of Aesthetics
 Category: #articles
 Publication date: 2018-09-14
-
+Document Tags: [[art]] [[criticism]] [[design]] [[internet]] [[media-studies]] 
 URL: https://subpixel.space/entries/diminishing-marginal-aesthetic-value/
 Summary: Aesthetic value is shrinking because new styles quickly become common and lose their novelty. The internet makes all aesthetics easy to see, which makes it hard for any one style to feel truly new. This change hurts artists and designers, who must work harder to stand out but earn less from their work.
 ---

@@ -1,11 +1,10 @@
 ---
 Author: Simon Wu
-Full Title: "On Opacity: How Artists Resist “Representation” and Legibility"
-Category:
+Full Title: On Opacity: How Artists Resist “Representation” and Legibility – ARTnews.com
+Category: #articles
 Publication date: 2022-05-11
 URL: https://www.artnews.com/art-in-america/features/opacity-sandra-mujinga-simon-liu-kapwani-kiwanga-1234628381/
 Summary: Artists like Kapwani Kiwanga, Sandra Mujinga, Simon Liu, and American Artist take inspiration from the writings of Édouard Glissant.
-Publication: ArtNews
 ---
 
 ![rw-book-cover](https://www.artnews.com/wp-content/uploads/2022/05/SI-Mujinga-06.jpg?w=1024)

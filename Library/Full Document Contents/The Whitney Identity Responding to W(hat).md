@@ -1,7 +1,7 @@
 ---
 Author: CMM Support
-Full Title: "The Whitney Identity: Responding to W(hat)?"
-Category:
+Full Title: The Whitney Identity: Responding to W(hat)?
+Category: #articles
 Publication date: 2013-06-12
 URL: https://designobserver.com/the-whitney-identity-responding-to-what/
 Summary: The Whitney Museum’s new logo by Experimental Jetset is very ambiguous and can mean almost anything. Critics say the design lacks clear meaning and relies on vague ideas and buzzwords. People hope the museum’s identity will become more thoughtful and reflective in the future.

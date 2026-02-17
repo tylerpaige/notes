@@ -4,7 +4,9 @@ Full Title: What Google Learned From Its Quest to Build the Perfect Team
 Category: #articles
 Publication date: 2016-02-25
 URL: http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
-
+Summary: Google studied hundreds of teams to learn what makes a team work well.  
+The key was not who was on the team but how teammates treated each other — equal turn-taking and a safe space to speak up.  
+Teams improved when they set clear norms, listened to each other, and practiced empathy.
 ---
 
 ![rw-book-cover](https://static01.nyt.com/images/2016/02/28/magazine/28mag-teams1-copy/28mag-teams1-facebookJumbo-v2.jpg?year=2016&h=550&w=1050&s=76393ca890336df72668e903797f571efc785c110faf527d37a4ed6eb8bf1d3d&k=ZQJBKqZ0VN)

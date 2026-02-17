@@ -1,7 +1,7 @@
 ---
 Author: Meg Miller
-Full Title: Muriel Cooper Motion Graphics, A Stylish Political Magazine, 50 Years of National Theatre Posters + More
-Category:
+Full Title: No. 164: Muriel Cooper Motion Graphics, A Stylish Political Magazine, 50 Years of National Theatre Posters + More
+Category: #articles
 Publication date: 2017-10-20
 URL: https://eyeondesign.aiga.org/no-164-cruz-novillos-ubiquitous-logos-a-stylish-political-magazine-50-years-of-national-theatre-posters-more/
 Summary: https://eyeondesign.aiga.org/no-164-cruz-novillos-ubiquitous-logos-a-stylish-political-magazine-50-years-of-national-theatre-posters-more/

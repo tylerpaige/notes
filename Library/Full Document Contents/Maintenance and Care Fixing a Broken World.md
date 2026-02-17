@@ -1,11 +1,10 @@
 ---
 Author: Shannon Mattern
-Full Title: "Maintenance and Care: Fixing a Broken World"
-Category:
+Full Title: Maintenance and Care: Fixing a Broken World
+Category: #articles
 Publication date: 2018-11-14
 URL: https://placesjournal.org/article/maintenance-and-care/?cn-reloaded=1
 Summary: The text discusses the importance of maintenance in various disciplines, emphasizing repair work in architecture, urbanism, and technology. It explores how maintenance has gained significance as a theoretical framework and a political cause, challenging the dominance of innovation. The text also touches on the social, cultural, and ecological contexts of maintenance work, advocating for a broader recognition of maintenance practices.
-Publication: Places Journal
 ---
 
 ![rw-book-cover](https://placesjournal.org/wp-content/uploads/2018/11/mattern-06-maintenance.jpg)

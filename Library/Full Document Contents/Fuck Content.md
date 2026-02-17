@@ -3,7 +3,7 @@ Author: Michael Rock
 Full Title: Fuck Content
 Category: #articles
 Publication date: 2009-08-05
-Document Tags: [[design]] 
+Document Tags: [[design]] [[production]] 
 URL: https://2x4.org/ideas/2009/fuck-content/
 Summary: Design is not just about content but how that content is shaped and presented. The meaning of design comes from its form and style, not just the story it tells. Good design speaks through its visual treatment, creating a unique message beyond the content itself.
 Document Note: He is so whatever to me. It’s not that I disagree with his argument. It’s more so that I think he seems to misunderstand what is happening. Of course design influences meaning and thus creates a kind of authorship. That is obvious to everyone. What people are advocating for when asking for “design as authorship” is to pursue forms of content production that only a designer would think to make. Like think about visual storytelling at a newspaper. A reporter would tell the story with words then have a designer decorate it. A visual journalist thinks about visual opportunities to do the telling. It’s not rocket science. 

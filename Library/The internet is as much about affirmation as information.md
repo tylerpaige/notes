@@ -2,7 +2,7 @@
 Author: An Xiao Mina
 Full Title: The internet is as much about affirmation as information
 Category: #articles
-
+Document Tags: [[culture]] [[internet]] [[memes]] [[politics]] 
 URL: https://qz.com/1527974/the-internet-is-as-much-about-affirmation-as-information
 ---
 

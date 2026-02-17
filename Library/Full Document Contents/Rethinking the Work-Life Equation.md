@@ -4,7 +4,9 @@ Full Title: Rethinking the Work-Life Equation
 Category: #articles
 Publication date: 2016-02-25
 URL: http://www.nytimes.com/2016/02/28/magazine/rethinking-the-work-life-equation.html
-
+Summary: Many workplaces offer flexibility but culture and manager gatekeeping stop people from using it.  
+Studies show that focusing on results, training managers, and calling it "work-life fit" increases usage and improves health and productivity.  
+Making flexibility routine and gender-neutral helps employees meet goals and live better lives.
 ---
 
 ![rw-book-cover](https://static01.nyt.com/images/2016/02/28/magazine/28mag-family1-copy/28mag-family1-facebookJumbo.jpg?year=2016&h=550&w=1050&s=7261e39217321056f8da1257322fa06a22b2e39ac682c3e392f8a785d14b1caf&k=ZQJBKqZ0VN)

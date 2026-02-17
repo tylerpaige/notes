@@ -3,7 +3,7 @@ Author: Joan Westenberg
 Full Title: The Discourse is a Distributed Denial-of-Service Attack
 Category: #articles
 Publication date: 2026-01-17
-
+Document Tags: [[criticism]] [[internet]] [[politics]] 
 URL: https://www.joanwestenberg.com/the-discourse-is-a-distributed-denial-of-service-attack/
 Summary: The Discourse is like a big online attack called a Distributed Denial-of-Service. It overwhelms websites with too much traffic. This makes the site slow or stop working.
 ---

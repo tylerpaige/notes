@@ -4,7 +4,10 @@ Full Title: GamerGate, criticism, ideology and 'They Live'
 Category: #articles
 Publication date: 2014-11-17
 URL: http://www.polygon.com/2014/11/17/7235801/game-criticism-ideology-gamergate-and-they-live
-Summary: There are two levels to pop culture. There is the surface layer, which is where most of us live, and the deeper layer which often changes the way we think about the world around us.Call of Duty...
+Summary: There are two levels to pop culture. 
+
+There is the surface layer, which is where most of us live, and the deeper layer which often changes the way we think about the world around us.
+Call of Duty...
 ---
 
 ![rw-book-cover](https://cdn.vox-cdn.com/thumbor/O6nQOaLcqDF1YGxvQ7LATnAz-ao=/0x40:449x293/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/44174814/Screen_Shot_2014-11-17_at_4.22.59_PM.0.0.png)

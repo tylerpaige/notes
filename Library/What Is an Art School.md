@@ -1,9 +1,9 @@
 ---
 Author: Daniel Atkinson
 Full Title: What Is an Art School?
-Category:
+Category: #articles
+Document Tags: [[art]] [[education]] 
 URL: https://walkerart.org/magazine/whats-an-art-school-interview-sam-thorne
-Publication: Walker Art Center
 ---
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)

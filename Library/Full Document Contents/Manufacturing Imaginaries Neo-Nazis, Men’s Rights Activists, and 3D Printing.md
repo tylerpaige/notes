@@ -1,8 +1,9 @@
 ---
 Author: Robbie Fordyce
-Full Title: "Manufacturing Imaginaries: Neo-Nazis, Men’s Rights Activists, and 3D Printing"
-Category:
+Full Title: Manufacturing Imaginaries: Neo-Nazis, Men’s Rights Activists, and 3D Printing
+Category: #articles
 Publication date: 2019-08-03
+Document Tags: [[marxism]] [[politics]] [[technology]] 
 URL: https://readings.typo.codes/Manufacturing%20Imaginaries%20-%20Neo-Nazis,%20Men%E2%80%99s%20Rights%20Activists,%20and%203D%20Printing.html
 Summary: This article explores how far-right groups imagine using 3D printing to challenge current political and economic systems. It shows that these groups see 3D printing as a tool to avoid regulation and promote their agendas. The main impact of 3D printing is its potential to disrupt governance and create new social and economic orders.
 ---

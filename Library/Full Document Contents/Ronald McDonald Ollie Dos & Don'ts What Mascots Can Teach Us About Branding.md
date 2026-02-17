@@ -1,7 +1,7 @@
 ---
 Author: walkerart.org
-Full Title: "Ronald McDonald, Ollie Dos & Don'ts: What Mascots Can Teach Us About Branding"
-Category:
+Full Title: Ronald McDonald Ollie Dos & Don'ts: What Mascots Can Teach Us About Branding
+Category: #articles
 Publication date: 2022-12-15
 URL: http://walkerart.org/magazine/for-the-rest-of-your-life
 Summary: https://walkerart.org/magazine/for-the-rest-of-your-life/

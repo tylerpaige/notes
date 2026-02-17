@@ -1,7 +1,8 @@
 ---
 Author: David Reinfurt
-Full Title: "This Stands as a Sketch for the Future: Muriel Cooper and the Visible Language Workshop"
-Category:
+Full Title: This Stands as a Sketch for the Future: Muriel Cooper and the Visible Language Workshop
+Category: #articles
+Document Tags: [[design]] [[education]] 
 URL: https://readings.typo.codes/this_stands_as_a_sketch_for_the_future/this_stands_as_a_sketch_for_the_future.html
 ---
 

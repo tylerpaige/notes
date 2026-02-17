@@ -1,7 +1,7 @@
 ---
 Author: Anthony Dunne
-Full Title: "Hertzian Tales: Electronic Products, Aesthetic Experience, And Critical Design"
-Category:
+Full Title: Hertzian Tales: Electronic Products, Aesthetic Experience, And Critical Design
+Category: #articles
 Publication date: 2006-05-15
 URL: https://read.readwise.io/read/01kg1acynne88d4sjc0ag7bgrj
 ---
