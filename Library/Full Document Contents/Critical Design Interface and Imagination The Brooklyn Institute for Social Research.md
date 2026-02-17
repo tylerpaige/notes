@@ -1,6 +1,6 @@
 ---
 Author: Brooklyn Institute for Social Research
-Full Title: Critical Design: Interface and Imagination | The Brooklyn Institute for Social Research
+Full Title: Critical Design:Interface and Imagination | The Brooklyn Institute for Social Research
 Category: #articles
 Publication date: 2016-09-29
 URL: https://thebrooklyninstitute.com/bisr_course/critical-design-interface-and-imagination/

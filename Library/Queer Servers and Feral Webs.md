@@ -2,7 +2,7 @@
 Author: Author Address
 Full Title: Queer Servers and Feral Webs
 Category: #articles
-Document Tags: [[internet]] [[queer]] [[technology]] 
+
 URL: https://mirror.xyz/austinwadesmith.eth/wrBCeIWNsXbseQiLBj5jR_bkMFZ03nNYs4rg0lU8X2s
 ---
 

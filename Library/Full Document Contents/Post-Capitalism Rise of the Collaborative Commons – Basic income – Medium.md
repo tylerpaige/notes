@@ -1,7 +1,7 @@
 ---
-Author: cjdew
-Full Title: Post-Capitalism: Rise of the Collaborative Commons – Basic income – Medium
-Category: #articles
+Author: Christopher J. Dew
+Full Title: "Post-Capitalism: Rise of the Collaborative Commons"
+Category:
 Publication date: 2020-12-31
 URL: https://medium.com/basic-income/post-capitalism-rise-of-the-collaborative-commons-62b0160a7048
 Summary: The rise of the Internet of Things (IoT) and renewable energy technologies is changing the economic landscape, moving away from traditional capitalism. This shift is creating a Collaborative Commons where people share resources and focus on cooperation instead of competition. As production costs decrease, access to goods and services will become more important than ownership, leading to a new sustainable economy.

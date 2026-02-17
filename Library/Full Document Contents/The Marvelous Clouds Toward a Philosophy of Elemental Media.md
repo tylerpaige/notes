@@ -1,7 +1,7 @@
 ---
 Author: John Durham Peters
-Full Title: The Marvelous Clouds: Toward a Philosophy of Elemental Media
-Category: #articles
+Full Title: "The Marvelous Clouds: Toward a Philosophy of Elemental Media"
+Category:
 Publication date: 2015-06-22
 URL: https://read.readwise.io/read/01kg1ac53gp22xyyxvah2sjp2k
 Summary: The book explores how natural elements like earth, air, fire, and water serve as fundamental media shaping human life and culture. It argues that media go beyond human tools and include the natural world, linking technology, nature, and philosophy. The author calls for a broader view of media studies that embraces science, theology, and the environment.

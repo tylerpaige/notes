@@ -1,7 +1,7 @@
 ---
 Author: robertleonard.org
-Full Title: Corita Kent: Sister Act
-Category: #articles
+Full Title: "Corita Kent: Sister Act"
+Category:
 URL: http://robertleonard.org/corita-kent-sister-act/
 Summary: . In the 1960s, nuns were out and about, playing guitars and singing songs, riding motorbikes and attending to the flock. The Encyclopedia of Bad Taste devotes a two-page entry to the ‘perky nun’.
 ---

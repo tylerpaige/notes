@@ -1,7 +1,7 @@
 ---
 Author: Cade Metz
-Full Title: Tech Workers Now Want to Know: What Are We Building This For?
-Category: #articles
+Full Title: "Tech Workers Now Want to Know: What Are We Building This For?"
+Category:
 Publication date: 2018-10-07
 URL: https://www.nytimes.com/2018/10/07/technology/tech-workers-ask-censorship-surveillance.html
 Summary: Tech workers are increasingly worried about how their code is used, especially for surveillance or military projects. Many employees now demand transparency and ethical clarity from companies. Some have quit, protested, or pushed students to refuse jobs over these concerns.

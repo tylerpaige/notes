@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "35da01922f25ea65",
+    "id": "ffdf6ea0ee7caecf",
     "type": "split",
     "children": [
       {
-        "id": "814049afddad0593",
+        "id": "f6a740f28ddf9b44",
         "type": "tabs",
         "children": [
           {
-            "id": "402692f18633a03e",
+            "id": "82dee74cc0ee70e5",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -26,29 +26,29 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3116b681c5319fcf",
+    "id": "19229b9e7b259c99",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4798a0e7f646e1ea",
+        "id": "e6e7904dd94a2b92",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "bc9511d67a953437",
+        "id": "042eb52b2683ee1c",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "foucault",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -60,7 +60,7 @@
         }
       },
       {
-        "id": "23f6601158bec29d",
+        "id": "e18a7f930450109d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -75,7 +75,7 @@
         }
       },
       {
-        "id": "08a5508bff111459",
+        "id": "bf720de0ccf5a8f1",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -89,7 +89,7 @@
         }
       },
       {
-        "id": "b7155bf9dd9c0d88",
+        "id": "0da3fd3b49b3dbe9",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -102,16 +102,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7cb89f25c4b5489c",
+    "id": "a72b57cbaf3f4782",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "12c40cd7f6e878a1",
+        "id": "da4f3454a79850b2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Library/Articles/Erik Carter - The Rise and Fall of Adobe Inc..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,12 +124,11 @@
         }
       },
       {
-        "id": "9557c227e2750885",
+        "id": "fe4beffe29daaeb1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Library/Articles/Order of Things, Preface.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,12 +137,11 @@
         }
       },
       {
-        "id": "08b14da459c5d2c5",
+        "id": "f1f2dfc2a2bbc167",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Library/Articles/Metahaven - Can Jokes Bring Down Governments Memes, Design and Politics.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,19 +151,7 @@
         }
       },
       {
-        "id": "f10d82a94a6fe493",
-        "type": "leaf",
-        "state": {
-          "type": "footnotes",
-          "state": {
-            "file": "Library/Full Document Contents/Articles/The Diminishing Marginal Value of Aesthetics.md"
-          },
-          "icon": "lucide-file-signature",
-          "title": "Footnotes"
-        }
-      },
-      {
-        "id": "0ded825b6312b88f",
+        "id": "3f57adce7f20bec7",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -176,58 +161,53 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "402692f18633a03e",
+  "active": "82dee74cc0ee70e5",
   "lastOpenFiles": [
-    "Library/Full Document Contents/Trouble in Lakewood.md",
+    "Library/Full Document Contents/Competition Be Damned - Features - Source An OpenNews project.md",
     "LibraryDb.base",
-    "Library/Full Document Contents/The Underground Neo-Nazi Promo Campaign Behind Adult Swim’s Alt-Right Comedy Show.md",
-    "Library/Full Document Contents/Towards a Critical Faculty.md",
-    "Library/Full Document Contents/Trump, Clinton, and the Electoral Politics of Bitcoin.md",
-    "Library/Full Document Contents/What Design Can’t Do Essays on Design and Disillusion.md",
-    "Library/Full Document Contents/Uber’s Undoing Part II Local vs. Global.md",
-    "Library/How the Bauhaus Became the 20th Century’s Most Influential Movement.md",
-    "Library/Full Document Contents/Why Doesn’t America Have Universal Health Care One Word Race.md",
-    "Library/The Author as Producer.md",
-    "Library/Full Document Contents/Why's that company so big I could do that in a weekend.md",
-    "Library/Full Document Contents/When Wall Street Is Your Landlord.md",
-    "Library/Full Document Contents/Workshop Work, Labor, and Automation.md",
-    "Library/Full Document Contents/Workers Fear Not the Robot Apocalypse.md",
-    "Library/Tense Relations.md",
-    "Library/Full Document Contents/You don’t protect my freedom Our childish insistence on calling soldiers heroes deadens real democracy.md",
-    "Library/Strangely Familiar Design and Everyday Life.md",
-    "Library/In Defense of the Poor Image.md",
-    "Library/Just Re-Do It Tactical Formlessness and Everyday Consumption.md",
-    "Library/How Bauhaus Redefined What Design Could Do for Society.md",
-    "Library/The New Napster How Sci-Hub Is Blowing Up the Academic Publishing Industry.md",
-    "Library/On Design Thinking.md",
-    "Library/Obscure Sorrows Thoughts Around the 9th Berlin Biennale - Journal - E-Flux.md",
-    "Library/Myths of the 1 Percent What Puts People at the Top.md",
-    "Library/Surya Mattu Explaining the Unseen.md",
-    "Library/Machine Bias There’s Software Used Across the Country to Predict Future Criminals. And It’s Biased Against Blacks..md",
-    "Library/Reskilling the Art Student.md",
-    "Library/Full Document Contents",
-    "Library",
-    "Untitled.base",
+    "Library/Full Document Contents/The Forever Now review calling time on the avant garde.md",
+    "Library/Full Document Contents/Creativity in the Design Process Co-Evolution of Problem–solution.md",
+    "Library/Full Document Contents/How to be human being open vs. being adulterous.md",
+    "Library/Full Document Contents/Hertzian Tales Electronic Products, Aesthetic Experience, And Critical Design.md",
+    "Library/Full Document Contents/Obscure Sorrows Thoughts around the 9th Berlin Biennale - Journal - e-flux.md",
+    "Library/Full Document Contents/Humiliation.md",
+    "Library/Full Document Contents/imperialism and technology for typography · Issue 1.md",
+    "Library/Full Document Contents/imperialism and technology for typography · Issue.md",
+    "Library/Full Document Contents/Inside Facebook’s (Totally Insane, Unintentionally Gigantic, Hyperpartisan) Political-Media Machine - NYTimes.com.md",
+    "Library/Full Document Contents/Machine Bias There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks..md",
+    "Library/Full Document Contents/List If People Talked About Other Things the Way They Talked About Gender Identity - McSweeney’s Internet Tendency.md",
+    "Library/Full Document Contents/Manufacturing Imaginaries Neo-Nazis, Men’s Rights Activists, and 3D Printing.md",
+    "Library/Full Document Contents/Maintenance and Care Fixing a Broken World.md",
+    "Library/Full Document Contents/Notes for “Sick Time, Sleepy Time, Crip Time Against Capitalism’s Temporal Bullying” in conversation with the Canaries Temporary Art Review.md",
+    "Library/Full Document Contents/On-screen graphic design The early years of television - OpenLearn - Open University.md",
+    "Library/Full Document Contents/Op-ed Mark Zuckerberg’s manifesto is a political trainwreck.md",
+    "Library/Full Document Contents/On Opacity How Artists Resist “Representation” and Legibility – ARTnews.com.md",
+    "Library/Full Document Contents/No. 164 Muriel Cooper Motion Graphics, A Stylish Political Magazine, 50 Years of National Theatre Posters + More.md",
+    "Library/Full Document Contents/Revealed FBI investigated civil rights group as 'terrorism' threat and viewed KKK as victims US news The Guardian.md",
+    "Library/Full Document Contents/Reflecting on one very, very strange year at Uber.md",
+    "Library/Full Document Contents/Ronald McDonald Ollie Dos & Don'ts What Mascots Can Teach Us About Branding.md",
+    "Library/Full Document Contents/Sartre and Borges on Welles.md",
+    "Library/Full Document Contents/Post-Capitalism Rise of the Collaborative Commons – Basic income – Medium.md",
+    "Library/Full Document Contents/Rethinking the Work-Life Equation.md",
+    "Library/Full Document Contents/Technological Underemployment Addressing Common Objections.md",
     "Reading Notes/Silvio Lorusso - What Design Can’t Do",
-    "Templates",
-    "Untitled 1.base",
-    "Bookmarks/Full Document Contents/LibraryDb.base",
     "Reading Notes",
-    "notes.git",
-    "Untitled.canvas"
+    "Templates",
+    "Library/Full Document Contents",
+    "Library"
   ]
 }

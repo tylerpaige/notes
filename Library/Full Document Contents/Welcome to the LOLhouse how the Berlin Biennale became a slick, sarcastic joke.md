@@ -1,7 +1,7 @@
 ---
 Author: Jason Farago
-Full Title: Welcome to the LOLhouse: how the Berlin Biennale became a slick, sarcastic joke
-Category: #articles
+Full Title: "Welcome to the LOLhouse: how the Berlin Biennale became a slick, sarcastic joke"
+Category:
 Publication date: 2016-06-13
 URL: http://www.theguardian.com/artanddesign/2016/jun/13/berlin-biennale-exhibition-review-new-york-fashion-collective-dis-art
 Summary: https://www.theguardian.com/artanddesign/2016/jun/13/berlin-biennale-exhibition-review-new-york-fashion-collective-dis-art

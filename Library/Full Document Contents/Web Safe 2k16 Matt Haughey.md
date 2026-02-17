@@ -1,11 +1,8 @@
 ---
-Author: websafe2k16.com
-Full Title: Web Safe 2k16: Matt Haughey
-Category: #articles
+Author: Matt Haughey
+Full Title: Web Safe 2k16 Matt Haughey
+Category:
 URL: http://websafe2k16.com/006699
-Summary: <p>I want to leave this place better than when I started, and that guiding principle has worked out pretty well for me when deciding what projects or jobs to work on. If I can’t find an angle that gives the world some net improvement, I move on.</p>
-<p>MetaFilter played well into this</p>
-
 ---
 
 ![rw-book-cover](https://websafe2k16.com/wp-content/uploads/2016/07/haughey.gif)

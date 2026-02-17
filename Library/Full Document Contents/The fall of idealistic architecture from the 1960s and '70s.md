@@ -4,7 +4,7 @@ Full Title: The fall of idealistic architecture from the 1960s and '70s
 Category: #articles
 Publication date: 2016-02-11
 URL: http://conversations.e-flux.com/t/the-fall-of-idealistic-architecture-from-the-1960s-and-70s/3242
-Summary: In The Guardian, Andy Beckett reviews the new book Last Futures: Nature, Technology, and the End of Architecture by Douglas Murphy, which examines the ferment of utopian architectural ideas that emerged in the 1960s and '70s and how they played out (or failed to) in subsequent decades. Here’s an excerpt:   Contrary to the usual complaint about postwar architecture, that it treated “ordinary human beings [as] material to be moulded in the service of a grand vi...
+
 ---
 
 ![rw-book-cover](https://conversations.e-flux.com/uploads/default/original/2X/e/ea53eba4b2b032e0ee53a01c27e6bf7bfd2797ab.png)

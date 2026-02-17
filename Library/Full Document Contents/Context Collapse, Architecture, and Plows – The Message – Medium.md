@@ -4,7 +4,7 @@ Full Title: Context Collapse, Architecture, and Plows – The Message – Medium
 Category: #articles
 Publication date: 2019-01-03
 URL: https://medium.com/message/context-collapse-architecture-and-plows-d23a0d2f7697
-Summary: Women and the Internet: Part Two
+Summary: Women and the Internet Part Two
 ---
 
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*DTN7w3aoOOOAGFOeT4g9nA.jpeg)

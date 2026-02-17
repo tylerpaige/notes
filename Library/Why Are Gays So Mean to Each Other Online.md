@@ -3,7 +3,7 @@ Author: Paul McAdory
 Full Title: Why Are Gays So Mean to Each Other Online?
 Category: #articles
 Publication date: 2025-12-09
-Document Tags: [[culture]] [[queer]] 
+Document Tags: [[culture]]  
 URL: https://www.them.us/story/gay-internet-posting-main-character-content-creators-twitter-instagram
 ---
 
